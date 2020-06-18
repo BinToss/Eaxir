@@ -1,0 +1,3 @@
+[submodule "lib/hxe"]
+	path = lib/hxe
+	url = https://github.com/yumiris/hxe/
