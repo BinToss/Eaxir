@@ -25,7 +25,7 @@ using System.IO;
 using System.IO.Compression;
 using System.Runtime.CompilerServices;
 using Eaxir.Properties;
-using HXE;
+using HXE.HCE;
 using File = System.IO.File;
 
 namespace Eaxir

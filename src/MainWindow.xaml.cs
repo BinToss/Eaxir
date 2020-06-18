@@ -21,7 +21,7 @@
 using System;
 using System.IO;
 using System.Windows;
-using HXE;
+using HXE.HCE;
 using Microsoft.Win32;
 
 namespace Eaxir
